@@ -1,6 +1,6 @@
 # Allez-cine
 
-[Site de Streaming](https://flavianomucedda.github.io/Allez-cine/Allez-cine/mainPage/index.html)
+[Site de Streaming](https://flavianomucedda.github.io/Allez-cine/Allez-Cine/mainPage/index.html)
 
 Site réalisé en équipe de 3:
 
